@@ -1,0 +1,2 @@
+# LS_SFRT
+This repository contains MATLAB scripts that can be used to simulate reactive transport in single fracture. The reactive transport solver uses a depth-averaged approximation to the Stokes and advection-diffusion-reaction equation, and directly couples local fluid-rock reactions with fracture surface alterations. The fracture surface alterations are modeled in three dimensions using the Level Set Method
